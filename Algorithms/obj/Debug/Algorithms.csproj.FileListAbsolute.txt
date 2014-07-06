@@ -1,0 +1,5 @@
+c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.dll
+c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.dll
+c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
