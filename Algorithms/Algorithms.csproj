@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Euclidean.cs" />
     <Compile Include="Max.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -33,13 +33,13 @@ namespace Algorithms
         //public static void FindMaxMin(this int[] array, out int max, out int min)
         //{
         //    int mid = array.Length / 2;
-        //    int l = 0, h = array.Length - 1;
+        //    int start = 0, last = array.Length - 1;
         //    int min1, max1, min2, max2, mid1, mid2;
         //    while (mid > 0)
         //    {
-        //        mid1 = l + mid / 2;
-        //        mid2 = mid + 1 + h + 1 / 2;
-        //        if (mid1 == l)
+        //        mid1 = start + mid / 2;
+        //        mid2 = mid + 1 + last + 1 / 2;
+        //        if (mid1 == start)
         //        {
 
         //        }

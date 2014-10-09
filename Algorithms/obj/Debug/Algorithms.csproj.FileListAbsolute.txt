@@ -3,3 +3,8 @@ c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\D
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.dll
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms\bin\Debug\Algorithms.dll
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms\obj\Debug\Algorithms.dll
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms\obj\Debug\Algorithms.pdb

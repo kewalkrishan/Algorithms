@@ -5,3 +5,10 @@ c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms.Tests
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.pdb
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.dll
 c:\users\kewal\documents\visual studio 2013\Projects\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.pdb
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.Tests.dll
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.Tests.pdb
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.dll
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\bin\Debug\Algorithms.pdb
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.csprojResolveAssemblyReference.cache
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.dll
+C:\Users\kewal.krishan\Documents\GitHub\Algorithms\Algorithms.Tests\obj\Debug\Algorithms.Tests.pdb
